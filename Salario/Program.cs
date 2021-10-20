@@ -9,7 +9,6 @@ namespace Salario
         {
             //Declaração do vetor
             funcionarios[] vect = new funcionarios[100];
-            int[] vect2 = new int[1];
             //Solicitando o numero de Funcionarios
             Console.WriteLine("Digite o numero de Funcionarios a ser registrado: ");
             int x = int.Parse(Console.ReadLine());
