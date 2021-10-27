@@ -47,7 +47,7 @@ namespace Salario
             }
             //Atualização a lista dos funcinários com o aumento realizado
             Console.WriteLine("Lista atualizada dos funcionarios da Bravo: ");
-            for (int i = 0; i < x + 1; i++)
+            for (int i = 0; i < 100; i++)
             {
                 if (vect[i] != null)
                 {
